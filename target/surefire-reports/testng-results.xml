@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-20T14:24:10 IST" name="Suite" finished-at="2022-10-20T14:24:45 IST" duration-ms="34986">
+    <groups>
+    </groups>
+    <test started-at="2022-10-20T14:24:10 IST" name="AmazonTest" finished-at="2022-10-20T14:24:45 IST" duration-ms="34986">
+      <class name="com.amazon.tests.AmazonTest">
+        <test-method is-config="true" signature="setUp([Ljava.lang.Object;)[pri:0, instance:com.amazon.tests.AmazonTest@543295b0]" started-at="2022-10-20T14:24:10 IST" name="setUp" finished-at="2022-10-20T14:24:17 IST" duration-ms="6263" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7e8e8651]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp([Ljava.lang.Object;)[pri:0, instance:com.amazon.tests.AmazonTest@543295b0]" started-at="2022-10-20T14:24:10 IST" name="setUp" finished-at="2022-10-20T14:24:19 IST" duration-ms="8938" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@49ef32e0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1(com.amazon.dataprovider.AmazonTestData)[pri:0, instance:com.amazon.tests.AmazonTest@543295b0]" started-at="2022-10-20T14:24:17 IST" name="test1" data-provider="supplyParallelData" finished-at="2022-10-20T14:24:44 IST" duration-ms="27246" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.amazon.dataprovider.AmazonTestData@4161cf46]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(com.amazon.dataprovider.AmazonTestData)[pri:0, instance:com.amazon.tests.AmazonTest@543295b0]" started-at="2022-10-20T14:24:19 IST" name="test1" data-provider="supplyParallelData" finished-at="2022-10-20T14:24:39 IST" duration-ms="19667" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.amazon.dataprovider.AmazonTestData@9caea11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.tests.AmazonTest@543295b0]" started-at="2022-10-20T14:24:39 IST" name="tearDown" finished-at="2022-10-20T14:24:42 IST" duration-ms="2826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.tests.AmazonTest@543295b0]" started-at="2022-10-20T14:24:44 IST" name="tearDown" finished-at="2022-10-20T14:24:45 IST" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.tests.AmazonTest -->
+    </test> <!-- AmazonTest -->
+  </suite> <!-- Suite -->
+</testng-results>

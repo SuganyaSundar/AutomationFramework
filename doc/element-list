@@ -1,0 +1,13 @@
+com.amazon.annotations
+com.amazon.constants
+com.amazon.dataprovider
+com.amazon.driver
+com.amazon.enums
+com.amazon.exceptions
+com.amazon.factories
+com.amazon.listeners
+com.amazon.owner
+com.amazon.pages
+com.amazon.reports
+com.amazon.tests
+com.amazon.utils
