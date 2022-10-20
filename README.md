@@ -89,7 +89,7 @@ This sample using the following libraries and frameworks:
 - `Docker file` in Framework is updated with all the commands to be run for creating `Docker image` of the Framework.
 
 # Usage Instructions
-- Clone the project from the GitHub url : `https://github.com/SuganyaSundar/SeleniumJavaFramework.git`
+- Clone the project from the GitHub url : `https://github.com/SuganyaSundar/AutomationFramework.git`
 - Update all the properties in `config.properties` file under src/test/resources/config folder as per the test requirements
 
 - Update the `AmazonTestData.json` file under src/test/resources folder with the test data as per the test requirements
