@@ -18,7 +18,8 @@ This sample using the following libraries and frameworks:
 - Parallel testing.
   - Thread safe driver (using thread local) support for parallel testing.
   - DataDriven Test support for execution in parallel.
-- POM Design Pattern.
+- Page Object Model.
+- Singleton Pattern.
 - Factory classes.
 - Web page interaction classes.
 - Test utility classes.
